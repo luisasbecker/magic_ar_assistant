@@ -98,7 +98,7 @@ Alvos de marcador:
    - Camera permission deve aparecer no manifesto pelo uso de ARCore/camera.
 6. `File > Build Settings > Android > Switch Platform`.
 7. Conecte o Galaxy S25 Ultra com depuracao USB.
-8. Use `Build And Run`.
+8. Use `Build And Run` ou `Magic AR Assistant > Build > Android APK`.
 
 Checklist especifico: validar permissao de camera, inicio da AR Session, deteccao dos oito PNGs impressos, estabilidade dos overlays, HUD, modo manual e persistencia local. Este ambiente nao executou teste real no aparelho.
 
@@ -113,10 +113,12 @@ Checklist especifico: validar permissao de camera, inicio da AR Session, detecca
    - `Requires ARKit`: ligado.
    - `Camera Usage Description`: mensagem de privacidade do app.
 5. `File > Build Settings > iOS > Switch Platform`.
-6. Gere o projeto Xcode.
+6. Gere o projeto Xcode via `Build Settings` ou `Magic AR Assistant > Build > iOS Xcode Project`.
 7. No Xcode, selecione equipe de assinatura, iPhone 16 Pro Max e rode no dispositivo.
 
 Este ambiente Windows nao gera build iOS real nem valida no iPhone 16 Pro Max.
+
+Comandos detalhados de build nativo estao em `BUILD_NATIVE_APPS.md`.
 
 ## Como rodar testes
 
@@ -141,4 +143,3 @@ Consulte `LIMITATIONS.md`.
 - Substituir UI programatica por prefabs polidos depois de validar o fluxo.
 - Adicionar feedback sonoro/haptico refinado.
 - Melhorar simulacao XR no Editor para testes sem aparelho.
-
