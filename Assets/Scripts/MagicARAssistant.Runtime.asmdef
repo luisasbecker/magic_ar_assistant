@@ -1,0 +1,20 @@
+{
+  "name": "MagicARAssistant.Runtime",
+  "rootNamespace": "MagicARAssistant",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems",
+    "Unity.XR.CoreUtils"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

@@ -1,0 +1,21 @@
+{
+  "name": "MagicARAssistant.Editor",
+  "rootNamespace": "MagicARAssistant.Editor",
+  "references": [
+    "MagicARAssistant.Runtime",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

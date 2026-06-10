@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productGUID: 00000000000000000000000000000000
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 3
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: Luisa Becker Santos
+  productName: Magic AR Assistant
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.08, g: 0.09, b: 0.11, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  bundleVersion: 0.1.0
+  preloadedAssets: []
+  metroInputSource: 0
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss: 1
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  AndroidTargetArchitectures: 2
+  AndroidSplashScreenScale: 0
+  AndroidMinSdkVersion: 26
+  AndroidTargetSdkVersion: 0
+  AndroidPreferredInstallLocation: 1
+  AndroidApplicationEntry: 1
+  AndroidRequireInternetPermission: 0
+  AndroidForceInternetPermission: 0
+  AndroidForceSDCardPermission: 0
+  AndroidCreateSymbols: 0
+  scriptingBackend:
+    Android: 1
+    iPhone: 1
+  il2cppCompilerConfiguration: {}
+  managedStrippingLevel:
+    Android: 1
+    iPhone: 1
+  iPhoneSdkVersion: 988
+  iOSTargetOSVersionString: 17.0
+  iOSRequireARKit: 1
+  iOSAutomaticallyDetectAndAddCapabilities: 1
+  cameraUsageDescription: O Magic AR Assistant usa a camera apenas para reconhecer cartas e marcadores em Realidade Aumentada. Nenhuma imagem e enviada para servidores.
+  activeInputHandler: 0
+

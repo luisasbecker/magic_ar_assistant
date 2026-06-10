@@ -1,0 +1,57 @@
+{
+  "cards": [
+    {
+      "id": "CARD_CREATURE_001",
+      "name": "Guardiao Arcano",
+      "category": "Carta",
+      "manaCost": "2U",
+      "typeLine": "Criatura - Guardiao",
+      "rulesText": "Quando entra em campo, olhe o topo do grimorio ficticio.",
+      "power": "2",
+      "toughness": "3",
+      "defaultCounters": 0,
+      "notes": "Carta ficticia criada para o prototipo academico.",
+      "referenceImageName": "CARD_CREATURE_001"
+    },
+    {
+      "id": "CARD_LAND_001",
+      "name": "Floresta Antiga",
+      "category": "Carta",
+      "manaCost": "",
+      "typeLine": "Terreno",
+      "rulesText": "Gera um recurso verde ficticio.",
+      "power": "",
+      "toughness": "",
+      "defaultCounters": 0,
+      "notes": "Sem relacao com cartas oficiais.",
+      "referenceImageName": "CARD_LAND_001"
+    },
+    {
+      "id": "CARD_SPELL_001",
+      "name": "Raio Mistico",
+      "category": "Carta",
+      "manaCost": "1R",
+      "typeLine": "Feitico",
+      "rulesText": "Causa 2 pontos de dano ficticio a um alvo.",
+      "power": "",
+      "toughness": "",
+      "defaultCounters": 0,
+      "notes": "Texto e nome ficticios.",
+      "referenceImageName": "CARD_SPELL_001"
+    },
+    {
+      "id": "CARD_COMMANDER_001",
+      "name": "Comandante das Chamas",
+      "category": "Carta",
+      "manaCost": "3RR",
+      "typeLine": "Criatura Lendaria - Comandante",
+      "rulesText": "Sempre que um marcador for aplicado, registre uma entrada adicional no log.",
+      "power": "4",
+      "toughness": "4",
+      "defaultCounters": 0,
+      "notes": "Comandante ficticio para demonstracao.",
+      "referenceImageName": "CARD_COMMANDER_001"
+    }
+  ]
+}
+

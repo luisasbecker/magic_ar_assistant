@@ -1,0 +1,37 @@
+{
+  "markers": [
+    {
+      "id": "MARKER_PLUS_ONE",
+      "label": "Marcador +1/+1",
+      "effectDescription": "Incrementa o contador +1/+1 da carta selecionada.",
+      "value": 1,
+      "markerType": "PLUS_ONE",
+      "referenceImageName": "MARKER_PLUS_ONE"
+    },
+    {
+      "id": "MARKER_DAMAGE",
+      "label": "Marcador de Dano",
+      "effectDescription": "Adiciona dano acumulado a carta selecionada.",
+      "value": 1,
+      "markerType": "DAMAGE",
+      "referenceImageName": "MARKER_DAMAGE"
+    },
+    {
+      "id": "MARKER_ABILITY",
+      "label": "Marcador de Habilidade",
+      "effectDescription": "Registra uma habilidade adicional ficticia na carta.",
+      "value": 1,
+      "markerType": "ABILITY",
+      "referenceImageName": "MARKER_ABILITY"
+    },
+    {
+      "id": "MARKER_LIFE_GAIN",
+      "label": "Marcador de Ganho de Vida",
+      "effectDescription": "Sugere ganho de vida ao jogador ativo.",
+      "value": 1,
+      "markerType": "LIFE_GAIN",
+      "referenceImageName": "MARKER_LIFE_GAIN"
+    }
+  ]
+}
+
